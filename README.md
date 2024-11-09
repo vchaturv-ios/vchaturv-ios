@@ -1,4 +1,4 @@
-👋 Hi, I’m Vishal Chaturvedi
+👋 Hi, I’m Vishnu Chaturvedi
 
 I'm a passionate backend developer with over 7.5 years of experience in building scalable and efficient applications. I specialize in Application Backend Development and am constantly seeking new ways to improve my skills and contribute to the open-source community.
 
